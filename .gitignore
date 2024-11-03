@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+.env
+.next/
+.nuxt/
+dist/
+coverage/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+/node_modules
+/bower_components
+
+# Testing directories
+/coverage
+
+# System files
+.DS_Store
+Thumbs.db
